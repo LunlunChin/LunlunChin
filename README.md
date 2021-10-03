@@ -21,7 +21,7 @@ Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence ent
 Currently Studying Computer Science in Universiti Sains Malaysia (Penang).
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/36696204/135762102-97ea05c8-cede-442a-b630-78425669047b.gif" width="500" height="320" />
   
 - 💼 Feel free to reach me out, [email](mailto:zhielun@student.usm.my) :)
 - 💬 ask me about anything, i am happy to help;
