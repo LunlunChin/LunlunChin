@@ -8,9 +8,9 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Lun LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Lun Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
@@ -33,7 +33,7 @@ Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.u
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br><br>
 📊 **What am I working on:**
 <!--START_SECTION:waka-->
 ```text
@@ -52,7 +52,7 @@ Angular         ████████▒░░░░░░░░░░░░�
 
 🏆 **My Target**
 <!-- TODO-IST:START -->
-🖥️ Contribute in larger open-source project
+🖥️ Contribute in larger open-source project<br>
 📱  Build mobile apps from stratch
 <!-- TODO-IST:END -->
 </div>
