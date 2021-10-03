@@ -20,7 +20,7 @@ Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence ent
 
 Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.usm.my/index.php) Penang
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/36696204/135762102-97ea05c8-cede-442a-b630-78425669047b.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/36696204/135762803-d89267c7-23dc-4034-b38a-bc5c0d7a3720.gif" width="500" height="320" />
   
 - 💼 Feel free to reach me out, [email](mailto:zhielun@student.usm.my) :)
 - 💬 ask me about anything, i am happy to help;
@@ -40,7 +40,8 @@ Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.u
 Ionic           ███████████████░░░░░░░   75%
 Angular         ████████▒░░░░░░░░░░░░░   25%
 
-```
+``` 
+<br><br><br>
 <!--END_SECTION:waka-->
 
 
