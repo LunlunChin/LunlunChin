@@ -16,14 +16,14 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence enthusiast from Penang, Malaysia. 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Currently Studying Computer Science in Universiti Sains Malaysia
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:zhielun@student.usm.my) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
