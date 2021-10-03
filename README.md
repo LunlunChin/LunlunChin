@@ -16,14 +16,14 @@
 
 <br />
 
-Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence enthusiast from Penang, Malaysia. 
+Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence enthusiast from Penang, Malaysia. I love creating innovative solution for the world and have participated in various hackathon like MyHackathon 2020 and FWD Insurtech Hackathon 2021.
 
-Currently Studying Computer Science in Universiti Sains Malaysia
+Currently Studying Computer Science in Universiti Sains Malaysia (Penang).
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:zhielun@student.usm.my) :)
+- 💼 Feel free to reach me out, [email](mailto:zhielun@student.usm.my) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
