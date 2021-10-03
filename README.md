@@ -1,4 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/25LxRtoT97mGOfE6Lh/giphy.gif" width="25px">
+
 <a href="https://discord.gg/jAwGsuTy">
   <img align="left" alt="Lun Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
