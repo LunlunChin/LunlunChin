@@ -25,7 +25,7 @@ Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.u
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/36696204/135762803-d89267c7-23dc-4034-b38a-bc5c0d7a3720.gif" width="500" height="320" />
   
 - 💼 Feel free to reach me out, [email](mailto:zhielun@student.usm.my) :)
-- 🌐 Check Out my Personal Website!! [Web Portfolio](lunlunchin.github.io)
+- 🌐 Check Out my Personal Website!! [Web Portfolio](https://lunlunchin.github.io)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
