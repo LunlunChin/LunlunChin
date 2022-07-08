@@ -1,5 +1,5 @@
 [![Header](https://user-images.githubusercontent.com/36696204/136661873-6424971d-64cd-47e9-89a7-6e61f42aaad6.png "Header")](https://lunlunchin.github.io)
-### hey there <img width="5px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### hey there 
 
 
 <a href="https://discord.gg/jAwGsuTy">
