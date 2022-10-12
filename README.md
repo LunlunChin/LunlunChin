@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/36696204/136661873-6424971d-64cd-47e9-89a7-6e61f42aaad6.png "Header")](https://lunlunchin.github.io)
+
 ### hey there 
 
 
@@ -19,7 +19,7 @@
 
 <br />
 
-Hey! This is [Lun](https://lunlunchin.github.io/), a artificial intelligence enthusiast from Penang, Malaysia. I love creating innovative solution for the world and have participated in various hackathon like MyHackathon 2020 and FWD Insurtech Hackathon 2021.
+Hey! This is [Lun](https://lunlunchin.github.io/), ex-Coder53, ex-[Fusionex Group](https://www.fusionexgroup.com/) Software Engineer Intern.
 
 Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.usm.my/index.php) Penang
 
@@ -31,7 +31,6 @@ Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.u
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -43,7 +42,7 @@ Currently Studying Computer Science in [Universiti Sains Malaysia](https://www.u
 ```text
 Ionic           ███████████████░░░░░░░   75%
 Angular         ████████▒░░░░░░░░░░░░░   25%
-
+Django          ████████▒░░░░░░░░░░░░░   25%
 ``` 
 <br><br><br>
 <!--END_SECTION:waka-->
@@ -52,11 +51,7 @@ Angular         ████████▒░░░░░░░░░░░░�
 <div align="center">
 
 
-🏆 **My Target**
-<!-- TODO-IST:START -->
-🖥️ Contribute in larger open-source project<br>
-📱  Build mobile apps from stratch
-<!-- TODO-IST:END -->
+
 </div>
 
 
